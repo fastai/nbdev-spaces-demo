@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "size.html",
+    "href": "size.html",
+    "title": "size",
+    "section": "",
+    "text": "source\n\nhfsize\n\n hfsize (repo:str)\n\nReturns the size in GB of a HuggingFace Dataset.\nsize take as an input a Hugging Face Dataset repo and returns the total size in GB of the data.\nFor example, we can check the size of tglcourse/CelebA-faces-cropped-128 like so:\n\nhfsize(\"tglcourse/CelebA-faces-cropped-128\")\n\n'5.49 GB'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-spaces-demo",
+    "section": "",
+    "text": "This is a toy python library that lets you obtain the size of any Hugging Face dataset. For example, we can check the size of tglcourse/CelebA-faces-cropped-128 like so:\nWe deploy this function using Gradio and Hugging Face spaces."
+  },
+  {
+    "objectID": "index.html#using-nbdev-with-gradio",
+    "href": "index.html#using-nbdev-with-gradio",
+    "title": "nbdev-spaces-demo",
+    "section": "Using nbdev with Gradio",
+    "text": "Using nbdev with Gradio\nGradio and Hugging Face spaces is one of the easiest way to create and host apps. Gradio also allows you to prototype these apps in notebooks, which is excellent!\nWe show you step-by-step instructions on how to deploy a Hugging Face gradio app from a notebook in this example."
+  }
+]
